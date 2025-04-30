@@ -1,2 +1,2 @@
 ## Utilizando a API ViaCep https://viacep.com.br/
-### Criar um buscador de CEP
+### Criar uma aplicação em Java para um buscador de CEP
