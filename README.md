@@ -1,1 +1,1 @@
-## Utilizando a [API via CEP ]{https://viacep.com.br/}
+## Utilizando a API ViaCep https://viacep.com.br/
