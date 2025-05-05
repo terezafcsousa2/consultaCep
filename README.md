@@ -6,3 +6,5 @@
 * Criar uma aplicação para consultar a API ViaCep.
 * Menu para o usuário buscar o CEP.
 * Geração de um arquivo .JSON com os dados do endereço.
+
+## Dependências
