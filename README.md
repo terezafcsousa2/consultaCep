@@ -13,4 +13,4 @@
 * linguagem Java.
  * Instalar o JDK 17, 20 ou 21.
  * Instalar o Json na estrutura do projeto ("Ctrl+Alt+Shift+S").
- * Criar uma API KEY no site: https://viacep.com.br/
+
